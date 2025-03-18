@@ -1,0 +1,109 @@
+[
+  {
+    "_id": "66c8c8cfceef41eb9423b1d8",
+    "name": "Electronics",
+    "description": "Devices and gadgets",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1d9",
+    "name": "Home Appliances",
+    "description": "Appliances for home use",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1da",
+    "name": "Fashion",
+    "description": "Clothing, footwear, and accessories",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1db",
+    "name": "Books",
+    "description": "Books, magazines, and educational material",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1dc",
+    "name": "Sports Equipment",
+    "description": "Gear and accessories for various sports",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1dd",
+    "name": "Smartphones",
+    "description": "Mobile phones and accessories",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1d8",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1de",
+    "name": "Laptops",
+    "description": "Laptops and notebooks",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1d8",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1df",
+    "name": "Refrigerators",
+    "description": "Home and kitchen refrigerators",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1d9",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1e0",
+    "name": "Men's Clothing",
+    "description": "Clothing and accessories for men",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1da",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1e1",
+    "name": "Women's Clothing",
+    "description": "Clothing and accessories for women",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1da",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1e2",
+    "name": "Fiction Books",
+    "description": "Fictional books and novels",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1db",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1e3",
+    "name": "Non-Fiction Books",
+    "description": "Non-fictional books and educational material",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1db",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1e4",
+    "name": "Fitness Equipment",
+    "description": "Gym and fitness equipment",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1dc",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  },
+  {
+    "_id": "66c8c8cfceef41eb9423b1e5",
+    "name": "Outdoor Sports",
+    "description": "Equipment for outdoor sports",
+    "parentCategoryId": "66c8c8cfceef41eb9423b1dc",
+    "createdAt": "2024-08-23T17:37:19.916Z",
+    "updatedAt": "2024-08-23T17:37:19.916Z"
+  }
+]
